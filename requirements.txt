@@ -17,3 +17,4 @@ watchdog
 wikipedia
 opencv-python
 numpy
+tempfile
